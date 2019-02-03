@@ -1,6 +1,0 @@
-1) zkusit, ze funguje VAR fit
-2) zjistit extrakci AIC z Var fit
-3) rozkopirovat time vector
-4) check na vsechny potrebne uderlying soubory
-5) check cest
-6) udelat long master code
